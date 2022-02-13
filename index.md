@@ -1,3 +1,4 @@
->link to posts --> <a href="https://akahardzzz0011.github.io/2022/02/11/my-first-post">here</a>
-> 
->Machine learning topics --> <a href="https://akahardzzz0011.github.io/machinelearning">here</a>
+Link to posts --> [here](https://akahardzzz0011.github.io/2022/02/11/my-first-post")
+ 
+8 Most Common ML Algorithms --> [here](https://akahardzzz0011.github.io/8_common_ml_alg")
+
